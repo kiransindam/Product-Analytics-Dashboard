@@ -243,9 +243,9 @@ This project is licensed under the MIT License - see LICENSE file for details.
 ## 👤 Author
 
 **Your Name**
-- Portfolio: [yourportfolio.com]
-- LinkedIn: [linkedin.com/in/yourprofile]
-- GitHub: [@yourusername]
+- Portfolio: https://kiransindam-39lyhoe.gamma.site/
+- LinkedIn: https://www.linkedin.com/in/kiransindam/
+- GitHub: @kiransindam
 
 ## 🙏 Acknowledgments
 
