@@ -15,7 +15,6 @@ This project demonstrates end-to-end data analytics skills including:
 - Cloud deployment and DevOps
 - Business intelligence and KPI tracking
 
-**Live Demo:** [View Dashboard](https://your-dashboard.onrender.com) *(Add your deployed link)*
 
 ## 📈 Key Features
 
